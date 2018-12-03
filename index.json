@@ -1,7 +1,7 @@
 {
-  "squadName" : "Super hero squad",
-  "homeTown" : "Metro City",
-  "formed" : 2016,
+  "squadName" : "MY IDOL",
+  "职业" : "歌手",
+  "模特","作家","建筑师",
   "secretBase" : "Super tower",
   "active" : true,
   "members" : [
