@@ -1,6 +1,6 @@
 {
   "squadName" : "MY IDOL",
-  "their profession" : "writer(architect)、singer、model",
+  "their profession" : "[writer(architect),singer,model]",
   "secretBase" : "Super tower",
   "active" : true,
   "members" : [
