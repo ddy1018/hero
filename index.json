@@ -5,35 +5,34 @@
   "active" : true,
   "members" : [
     {
-      "name" : "Molecule Man",
-      "age" : 29,
-      "secretIdentity" : "Dan Jukes",
-      "powers" : [
-        "Radiation resistance",
-        "Turning tiny",
-        "Radiation blast"
+      "name" : "林徽因",
+      "age" : "已故",
+      "works" : [
+        "《你是人间的四月天》",
+        "《山中一个夏夜》",
+        "《秋天，这秋天》"
       ]
     },
     {
-      "name" : "Madame Uppercut",
-      "age" : 39,
-      "secretIdentity" : "Jane Wilson",
-      "powers" : [
-        "Million tonne punch",
-        "Damage resistance",
-        "Superhuman reflexes"
+      "name" : "刘雯",
+      "age" : 30,
+     
+      "works" : [
+        "福布斯中国名人榜第52名",
+        "ELLE国际偶像超模",
+        "第一个登上“维多利亚的秘密”内衣秀的亚洲模特"
       ]
     },
     {
-      "name" : "Eternal Flame",
-      "age" : 1000000,
-      "secretIdentity" : "Unknown",
-      "powers" : [
-        "Immortality",
-        "Heat Immunity",
-        "Inferno",
-        "Teleportation",
-        "Interdimensional travel"
+      "name" : "G-DRAGON",
+      "age" : 30,
+
+      "works" : [
+        "《无题》",
+        "《Who you》",
+        "《狂放》",
+        "《Missing you》",
+        "《Black》"
       ]
     }
   ]
