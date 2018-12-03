@@ -1,7 +1,6 @@
 {
   "squadName" : "MY IDOL",
-  "职业" : "歌手",
-  "模特","作家","建筑师",
+  "他们的职业" : "歌手、模特、作家、建筑师、",
   "secretBase" : "Super tower",
   "active" : true,
   "members" : [
